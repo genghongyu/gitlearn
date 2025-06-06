@@ -8,6 +8,8 @@ int main() {
 
     // the second change in master branch
     string name = "ghy";
+    // the first change in dev branch
+    int data = 1;
 
     return 0;
 }
