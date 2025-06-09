@@ -26,7 +26,5 @@ int main() {
     // 6th change in dev branch
     string addr2 = "this is my second home";
 
-    // 7th change in dev branch
-    string name = "ghy";
     return 0;
 }
