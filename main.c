@@ -23,5 +23,8 @@ int main() {
     // 5th change in dev branch
     string nation = "chinese";
 
+    // 6th change in dev branch
+    string addr2 = "this is my second home";
+
     return 0;
 }
